@@ -12,3 +12,5 @@ Video Game Reviews
    peters_games/asassins_creed_origins
    jacobs_games/darksiders
    jacobs_games/pokemon_brilliant_diamond
+   clarkegame_index/dragon_age_inquisition
+   clarkegame_index/skyrim

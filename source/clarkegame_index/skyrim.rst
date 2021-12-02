@@ -1,5 +1,5 @@
-another_subject
-===============
+More Stuff-index
+================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
 efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
