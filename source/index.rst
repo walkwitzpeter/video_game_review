@@ -10,3 +10,5 @@ Video Game Reviews
    more_stuff/index
    peters_games/ori_and_the_blind_forest
    peters_games/asassins_creed_origins
+   jacobs_games/darksiders
+   jacobs_games/pokemon_brilliant_diamond
