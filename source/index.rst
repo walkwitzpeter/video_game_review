@@ -14,3 +14,5 @@ Video Game Reviews
    jacobs_games/pokemon_brilliant_diamond
    clarkegame_index/dragon_age_inquisition
    clarkegame_index/skyrim
+   pauls_games/dishonored
+   pauls_games/octopath_traveler
