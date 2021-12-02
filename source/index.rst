@@ -1,4 +1,4 @@
-Replace this with your project title
+Video Game Reviews
 ====================================
 
 .. toctree::
