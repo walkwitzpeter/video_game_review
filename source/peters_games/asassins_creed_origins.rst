@@ -64,5 +64,12 @@ really stunning seeing for miles in every direction.
 .. figure:: origins_viewpoint.jpg
    :width: 100%
 
-   Kitten Photo
+   AC Origins Viewpoint [#f1]_ [#f2]_
+
+
+.. [#f1] "`<AC Origins <https://www.gamesradar.com/assassins-creed-origins-brings-viewpoints-back-as-a-homage-to-the-series-but-with-a-different-function/>`_".
+   GamesRadar+. 2021. Retrieved 2021-12-07.
+
+.. [#f2] "`Inez Milholland <http://vcencyclopedia.vassar.edu/alumni/inez-milholland.html>`_".
+   Vassar College Encyclopedia. 2006. Retrieved 2012-07-21.
 
