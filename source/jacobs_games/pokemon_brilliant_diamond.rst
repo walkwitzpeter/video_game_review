@@ -36,7 +36,46 @@ reason alone. As early as you can enter the underground, Eternia City, you can
 get a Houndoom, a fire/dark type pokemon that can greatly help you beat the grass
 gym leader of the city.
 
-Version Differences
---------------------
+Version Exclusive Pokemon
+--------------------------
 
-    # text here
+================== ===================
+Brilliant Diamond  Shining Pearl
+================== ===================
+Caterpie            Weedle
+Metapod             Kakuna
+Butterfree          Beedrill
+Ekans               Sandshrew
+Arbok               Sandslash
+Growlithe           Vulpix
+Arcanine            Ninetales
+Seel                Slowpoke
+Dewgong             Slowbro
+Scyther             Slowking
+Scizor              Pinsir
+Murkrow             Misdreavus
+Honchkrow           Mismagius
+Gligar              Teddiursa
+Gliscor             Ursaring
+Kecleon             Stantler
+Elekid              Magby
+Electabuzz          Magmar
+Electivire          Magmortar
+Larvitar            Bagon
+Pupitar             Shelgon
+Tyranitar           Salamence
+Seedot              Lotad
+Nuzleaf             Lombre
+Shiftry             Ludicolo
+Mawile              Sableye
+Zangoose            Seviper
+Solrock             Lunatone
+Cranidos            Shieldon
+Ramparados          Bastiodon
+Stunky              Glameow
+Skuntank            Purugly
+Dialga              Palkia
+Suicune             Articuno
+Entei               Zapdos
+Raikou              Moltres
+================== ===================
