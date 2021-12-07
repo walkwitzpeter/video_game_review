@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sample Project Name'
-copyright = '2021, Jane Smith'
-author = 'Jane Smith'
+project = 'Video Game Reviews'
+copyright = '2021, Peter Walkwitz, Paul Hyatt, Clark Latcham, Jacob Kuehl'
+author = 'Peter Walkwitz, Paul Hyatt, Clark Latcham, Jacob Kuehl'
 
 
 # -- General configuration ---------------------------------------------------
