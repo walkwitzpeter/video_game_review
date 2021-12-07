@@ -1,7 +1,7 @@
 Pokemon Brilliant Diamond
 ===========================
 
-.. image:: bd_mew.jpg
+.. image:: dialga.jpg
 
 Pokemon Brilliant Diamond is a remake of the 2006 game Pokemon Diamond which was
 released for the original Nintendo DS. Rather than being developed by GameFreak
