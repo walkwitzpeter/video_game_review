@@ -10,10 +10,19 @@ nuance, and it seems that you find something new every playthrough. From
 numerous daedric gods, to small mysterious easter eggs in the open world,
 Skyrim is an adventurer's dream.
 
+.. _my-reference-label:
+
+More about the Map
+------------------
+
+To skip forward to the map section, see :ref:`my-reference-label`.
+
+
 There are many powers given to the player as well. They include:
    * Shouts
    * Race-based powers
    * Legendary Weapons
+
 
 Another of the great aspects is the map itself. The playable area includes
 the entire country of Skyrim, and its island to the north, Solstheim, included
