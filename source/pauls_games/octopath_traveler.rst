@@ -6,8 +6,9 @@ Octopath Traveler
    Square Enix [#f1]_
 
 **Octopath Traveler** is an award-winning RPG developed by **Square Enix**
-and **Nintendo** for a compelling entry into the turn-based strategy category of
-the *Nintendo Switch's* catalog. Read on to decide whether this story-driven RPG
+and **Nintendo** for a compelling entry into the turn-based strategy category
+:ref:`Gameplay`
+of the *Nintendo Switch's* catalog. Read on to decide whether this story-driven RPG
 is right for you.
 
 Story
@@ -40,6 +41,8 @@ Each character has unique abilities that will aid you in your quest inside and
 outside of battle. The option to multi-class is also presented later in the
 game, so each of your characters will be able to do more than when the game
 started.
+
+.. _Gameplay:
 
 Gameplay
 ---------
