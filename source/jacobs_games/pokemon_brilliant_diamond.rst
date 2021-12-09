@@ -1,9 +1,9 @@
 Pokemon Brilliant Diamond
 ===========================
 
-.. image:: dialga.jpg
+.. figure:: dialga.jpg
 
-    Dialga [#f1]_
+   Dialga [#f1]_
 
 Pokemon Brilliant Diamond is a remake of the 2006 game Pokemon Diamond which was
 released for the original Nintendo DS. Rather than being developed by GameFreak
@@ -82,5 +82,5 @@ Entei               Zapdos
 Raikou              Moltres
 ================== ===================
 
-[#f1]_ Dialga, legendary pokemon of time. Cover pokemon of Brilliant Diamond,
-image by ILCA.
+.. [#f1] Dialga, legendary pokemon of time. Cover pokemon of Brilliant Diamond;
+   image by ILCA.

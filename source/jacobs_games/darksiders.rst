@@ -1,7 +1,9 @@
 Darksiders
 ================
 
-.. image:: war_darksiders.jpg
+.. figure:: war_darksiders.jpg
+
+   War [#f1]_
 
 Darksiders is published by THQ in 2010. It is a hack and slash,
 action-adventure game. This review will involve some spoilers for the story, you
@@ -58,3 +60,5 @@ it will feel so rewarding. Once you finally beat the game, if you played on easy
 you can earn the achievement "You Call This Easy?" to really give a reality
 check.
 
+.. [#f1] The Horseman War riding on Ruin. Photo by THQ Nordic for remastered
+version of Darksiders in 2016.
