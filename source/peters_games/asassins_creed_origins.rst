@@ -1,17 +1,24 @@
 Assassin's Creed Origins Review
 ===============================
-This review will cover 3 basic parts of the game. The :ref:`Storyline`, the
-:ref:`Gameplay`, the :ref:`Graphics`.
+This review will cover 3 basic parts of the game. The :ref:`Storyline AC`, the
+:ref:`Gameplay AC`, the :ref:`Graphics AC`.
 
+Basic Summary of this Review (Out of 10)
 
-.. _Storyline:
+=========  ========  ========  =======
+Storyline  Gameplay  Graphics  Overall
+=========  ========  ========  =======
+7/10       7/10      8/10      7.5/10
+=========  ========  ========  =======
+
+.. _Storyline AC:
 
 Basic Storyline
 ---------------
 We will be trying to write this review without any **big** spoilers, however we
 feel the need to point out that there may be a few *small* ones here and there
 so if you are planning on playing this game and would like to discover the story
-for yourself you may want to skip to the :ref:`Gameplay` section of this review.
+for yourself you may want to skip to the :ref:`Gameplay AC` section of this review.
 
 This game is set in ancient Egypt where you play as a Medjay named Bayek from
 Siwa. The pharaoh at the beginning of the story is Ptolemy XIII, him and other
@@ -22,7 +29,7 @@ corrupt regime that causes the common people to suffer. While seeking revenge
 you continue to help out the common people.
 
 
-.. _Gameplay:
+.. _Gameplay AC:
 
 Gameplay
 --------
@@ -53,7 +60,7 @@ per attack. This is slightly frustrating for me personally as it feels more
 grindy for levels than some of their previous games.
 
 
-.. _Graphics:
+.. _Graphics AC:
 
 Graphics
 --------
@@ -64,5 +71,12 @@ really stunning seeing for miles in every direction.
 .. figure:: origins_viewpoint.jpg
    :width: 100%
 
-   Kitten Photo
+   AC Origins Viewpoint [#f1]_ [#f2]_
+
+
+.. [#f1] "`<Assassin's Creed Origins <https://www.gamesradar.com/assassins-creed-origins-brings-viewpoints-back-as-a-homage-to-the-series-but-with-a-different-function/>`_".
+   GamesRadar+. 2021. Retrieved 2021-12-07.
+
+.. [#f2] "`Ubisoft Montreal <https://montreal.ubisoft.com/en/>`_".
+   Game Library. 2012. Retrieved 2021-12-07.
 
