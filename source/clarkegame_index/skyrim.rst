@@ -10,6 +10,11 @@ nuance, and it seems that you find something new every playthrough. From
 numerous daedric gods, to small mysterious easter eggs in the open world,
 Skyrim is an adventurer's dream.
 
+There are many powers given to the player as well. They include:
+   * Shouts
+   * Race-based powers
+   * Legendary Weapons
+
 Another of the great aspects is the map itself. The playable area includes
 the entire country of Skyrim, and its island to the north, Solstheim, included
 in the DLC *Dragonborn*. This map encompasses several distinct areas, all
@@ -17,7 +22,9 @@ with their own unique NPCs, seasons, landscapes, and enemies. This means that
 there is a vast area for players to explore, along with many quests and
 other activities that help immerse you in the vast world of Skyrim.
 
-.. image:: skyrim_map.jfif
+.. figure:: skyrim_map.jfif
+
+   Skyrim map [#f1]_
 
 The sheer amount of side activities and great quests often helps to cover up
 one of the weaker points of the game, namely the main story. The plot of the
@@ -37,4 +44,7 @@ questline unfulfilled for most players.
 All in all, Skyrim is undoubtedly one of the greatest RPGs of all time, and
 definitely a game worth checking out if you haven't already. As a player who
 has played multiple playthroughs and spent dozens of hours in the game, I
-give The Elder Scrolls V:Skyrim an 8.5 out of 10.
+give The Elder Scrolls V: Skyrim an 8.5 out of 10.
+
+.. [#f1] "`Skyrim Map <https://static.wikia.nocookie.net/elderscrolls/images/0/02/Ertyui.jpg/revision/latest?cb=20110609232949>`_".
+   Elder Scrolls Fandom. 2021. Retrieved 2021-12-7.
