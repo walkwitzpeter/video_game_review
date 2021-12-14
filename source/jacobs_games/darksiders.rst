@@ -7,12 +7,16 @@ Darksiders
 
 Darksiders is published by THQ in 2010. It is a hack and slash,
 action-adventure game. This review will involve some spoilers for the story, you
-have been warned.
+have been warned. This review will have :ref:`Story`, :ref:`Gameplay Review`, and
+the overall :ref:`Rating`.
+
+
+.. _Story:
 
 Story
 ----------
 
-In the game you play as a nephilim and Horseman of the Apocalypse, War. You
+In the game you play as a nephilim and **Horseman of the Apocalypse**, War. You
 find yourself on Earth in the middle of a war between angels, demons and mankind.
 However, mankind doesn't last long and is quickly wiped out. In the ensuing battle
 you are killed and find yourself before a council of ancient beings who charge
@@ -24,8 +28,22 @@ across Earth 100 years in the future and eventually you travel to more biblical
 settings. Along the way you fight mostly demons and monstrosities with the
 occasional angels.
 
+Important Characters
+^^^^^^^^^^^^^^^^^^^^^
+* War
+* The Watcher
+* Samael
+* The Charred Council
+* The Destroyer
+* Azrael
+* Ulthane
+* Uriel
+* Abbadon
+* Vulgrim
+
 To avoid the bigger spoilers that is all you need to know for now.
 
+.. _Gameplay Review:
 
 Gameplay Review
 -----------------
@@ -60,5 +78,11 @@ it will feel so rewarding. Once you finally beat the game, if you played on easy
 you can earn the achievement "You Call This Easy?" to really give a reality
 check.
 
+.. _Rating:
+
+Rating
+--------
+8/10 stars
+
 .. [#f1] The Horseman War riding on Ruin. Photo by THQ Nordic for remastered
-version of Darksiders in 2016.
+   version of Darksiders in 2016.

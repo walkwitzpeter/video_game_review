@@ -9,7 +9,7 @@ Pokemon Brilliant Diamond is a remake of the 2006 game Pokemon Diamond which was
 released for the original Nintendo DS. Rather than being developed by GameFreak
 like previous remakes for the series, Brilliant Diamond and its counter part
 Shining Pearl were developed by ILCA. This is caused by GameFreak working on
-Pokemon Legends: Arceus. In terms of story it is faithful to its predecessor
+*Pokemon Legends: Arceus*. In terms of story it is faithful to its predecessor
 and takes the player through the same path and plot.
 
 Gameplay Review
@@ -81,6 +81,14 @@ Suicune             Articuno
 Entei               Zapdos
 Raikou              Moltres
 ================== ===================
+
+
+Rating
+-------
+9/10 stars
+
+If you want to learn more about *Pokemon Legends: Arceus* visit here.
+.. _a link: https://www.pokemon.com/us/pokemon-video-games/pokemon-legends-arceus/
 
 .. [#f1] Dialga, legendary pokemon of time. Cover pokemon of Brilliant Diamond;
    image by ILCA.
